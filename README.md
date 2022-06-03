@@ -1,2 +1,2 @@
 # U10M11016.02-PCN
-NWPU, 2022 Principals of Computer Network, course work
+本仓库记录了2021年NWPU计算机网络原理课程的课程设计。
